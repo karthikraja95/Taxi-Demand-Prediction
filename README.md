@@ -1,6 +1,6 @@
 # Taxi-Demand-Prediction
 
-![](new_york.gif)
+![](New_york.gif)
 
 ## Data Information
 Ge the data from : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml (2016 data) The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC)
